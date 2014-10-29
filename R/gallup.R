@@ -7,19 +7,21 @@ library(dplyr)
 # Take a look at the responses from the most recent poll (top-level summary) ####
 
 all <- read.csv("data/all-crimes-summary.csv", header=TRUE, stringsAs=FALSE, sep=",")
-all$Crime <- factor(all$Crime, all$Crime, ordered=TRUE)
+all$Crime <- factor(all$Crime, rev(all$Crime), ordered=TRUE)
 all_m <- melt(all, id.vars = c("Crime"))
 colnames(all_m) <- c("Crime", "Response", "Value")
 
 gg <- ggplot(all_m, aes(x=Crime, y=Value, fill=Response))
 gg <- gg + geom_bar(position="fill", stat="identity")
+gg <- gg + geom_hline(yintercept=0.5, alpha=0.33)
 gg <- gg + scale_y_continuous(labels = percent_format(), expand=c(0,0))
-gg <- gg + scale_fill_brewer(palette="BrBG", type="div")
+gg <- gg + scale_fill_brewer(palette="BrBG", type="div", labels=gsub("_", "\n", levels(all_m$Response)))
 gg <- gg + coord_flip()
-gg <- gg + labs(x=NULL, y=NULL, title="How often do you, yourself, worry about the following things?")
+gg <- gg + labs(x=NULL, y=NULL, title="How often do you, yourself,\nworry about the following things?")
 gg <- gg + theme_bw()
 gg <- gg + theme(panel.grid=element_blank())
 gg <- gg + theme(panel.border=element_blank())
+gg <- gg + theme(legend.position="bottom")
 gg
 
 # Look at responses from previous polls ####
