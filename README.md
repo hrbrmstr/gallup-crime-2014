@@ -10,20 +10,7 @@ library(ggplot2)
 library(scales)
 library(RColorBrewer)
 library(dplyr)
-```
 
-    ## 
-    ## Attaching package: 'dplyr'
-    ## 
-    ## The following object is masked from 'package:stats':
-    ## 
-    ##     filter
-    ## 
-    ## The following objects are masked from 'package:base':
-    ## 
-    ##     intersect, setdiff, setequal, union
-
-``` r
 all <- read.csv("data/all-crimes-summary.csv", header=TRUE, stringsAs=FALSE, sep=",")
 all$Crime <- factor(all$Crime, all$Crime, ordered=TRUE)
 all_m <- melt(all, id.vars = c("Crime"))

@@ -13,7 +13,7 @@ source code and data files for the [dds.ec blog post](http://dds.ec/blog/2014/Oc
 
 (and mirroed here)
 
-```{r}
+```{r message=FALSE, error=FALSE, warning=FALSE}
 library(reshape2)
 library(ggplot2)
 library(scales)
