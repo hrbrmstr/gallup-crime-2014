@@ -1,0 +1,154 @@
+Crime,Survey_year,Frequently,Occasionally,Rarely,Never,Doesnt_apply,No_opinion
+Getting murdered,2014,5,13,34,47,0,0
+Getting murdered,2013,7,12,32,49,0,1
+Getting murdered,2011,8,11,32,48,0,0
+Getting murdered,2010,6,12,30,51,0,1
+Getting murdered,2009,7,12,32,49,0,0
+Getting murdered,2008,6,11,35,48,0,0
+Getting murdered,2007,7,12,33,48,0,0
+Getting murdered,2006,6,14,35,44,0,1
+Getting murdered,2005,5,10,31,53,0,1
+Getting murdered,2004,6,10,29,55,0,0
+Getting murdered,2003,6,12,30,52,0,0
+Getting murdered,2002,6,11,30,53,0,0
+Getting murdered,2001,4,9,31,56,0,0
+Getting murdered,2000,6,12,31,51,0,0
+Getting mugged,2014,11,20,34,35,0,0
+Getting mugged,2013,11,18,36,35,0,0
+Getting mugged,2011,11,23,32,33,0,1
+Getting mugged,2010,8,24,30,38,0,0
+Getting mugged,2009,11,20,35,34,0,0
+Getting mugged,2008,11,18,34,35,0,1
+Getting mugged,2007,10,19,37,33,1,0
+Getting mugged,2006,9,24,33,33,0,1
+Getting mugged,2005,7,21,35,37,0,0
+Getting mugged,2004,9,18,35,38,0,0
+Getting mugged,2003,9,19,35,37,0,0
+Getting mugged,2002,8,18,33,40,0,1
+Getting mugged,2001,6,17,36,41,0,0
+Getting mugged,2000,9,21,33,36,1,0
+Home burglarized not present,2014,18,27,31,24,1,0
+Home burglarized not present,2013,17,29,31,23,0,0
+Home burglarized not present,2011,19,29,31,21,0,0
+Home burglarized not present,2010,16,33,28,22,0,0
+Home burglarized not present,2009,21,25,34,20,0,0
+Home burglarized not present,2008,18,28,33,20,0,0
+Home burglarized not present,2007,18,29,32,21,0,0
+Home burglarized not present,2006,21,29,33,17,0,0
+Home burglarized not present,2005,15,30,30,25,0,0
+Home burglarized not present,2004,12,29,35,24,0,0
+Home burglarized not present,2003,17,31,31,21,0,0
+Home burglarized not present,2002,15,30,30,25,0,0
+Home burglarized not present,2001,12,28,33,26,0,1
+Home burglarized not present,2000,16,32,28,24,0,0
+Home burglarized present,2014,9,21,34,36,0,0
+Home burglarized present,2013,12,18,35,35,0,0
+Home burglarized present,2011,10,20,33,36,0,0
+Home burglarized present,2010,11,23,31,35,0,0
+Home burglarized present,2009,12,21,32,35,0,0
+Home burglarized present,2008,10,18,36,36,0,0
+Home burglarized present,2007,10,19,32,38,0,0
+Home burglarized present,2006,10,23,34,33,0,0
+Home burglarized present,2005,8,16,31,45,0,0
+Home burglarized present,2004,8,16,34,42,0,0
+Home burglarized present,2003,10,20,30,40,0,0
+Home burglarized present,2002,9,18,32,40,1,0
+Home burglarized present,2001,6,16,33,45,0,0
+Home burglarized present,2000,10,21,30,39,0,0
+Sexually assaulted,2014,7,11,31,51,0,0
+Sexually assaulted,2013,6,14,28,52,0,0
+Sexually assaulted,2011,6,16,25,53,1,0
+Sexually assaulted,2010,8,12,27,53,0,0
+Sexually assaulted,2009,5,14,29,52,0,0
+Sexually assaulted,2008,7,12,27,54,0,0
+Sexually assaulted,2007,6,13,28,52,0,0
+Sexually assaulted,2006,6,15,30,48,0,1
+Sexually assaulted,2005,6,13,29,52,0,0
+Sexually assaulted,2004,6,14,27,53,0,0
+Sexually assaulted,2003,9,14,27,50,0,0
+Sexually assaulted,2002,6,12,26,55,1,0
+Sexually assaulted,2001,4,15,24,57,0,0
+Sexually assaulted,2000,7,16,24,52,1,0
+Car stolen not present,2014,15,27,32,24,2,0
+Car stolen not present,2013,16,26,30,25,2,0
+Car stolen not present,2011,18,27,30,23,2,0
+Car stolen not present,2010,14,29,30,23,3,0
+Car stolen not present,2009,19,28,30,21,2,0
+Car stolen not present,2008,20,23,32,24,2,0
+Car stolen not present,2007,16,28,32,21,3,0
+Car stolen not present,2006,17,30,33,18,2,0
+Car stolen not present,2005,16,26,30,25,3,0
+Car stolen not present,2004,12,29,31,25,3,0
+Car stolen not present,2003,17,28,31,22,2,0
+Car stolen not present,2002,16,28,28,24,4,0
+Car stolen not present,2001,14,27,30,26,3,0
+Car stolen not present,2000,16,32,26,24,2,0
+Assaulted killed at work,2014,3,4,22,63,8,0
+Assaulted killed at work,2013,3,5,19,63,10,1
+Assaulted killed at work,2011,2,4,18,62,13,0
+Assaulted killed at work,2010,2,4,18,62,14,0
+Assaulted killed at work,2009,1,3,17,61,17,0
+Assaulted killed at work,2008,2,4,20,59,15,0
+Assaulted killed at work,2007,2,4,18,62,15,0
+Assaulted killed at work,2006,3,5,17,61,14,0
+Assaulted killed at work,2005,2,4,18,64,12,0
+Assaulted killed at work,2004,1,4,16,67,12,0
+Assaulted killed at work,2003,3,6,20,56,15,0
+Assaulted killed at work,2002,2,4,18,61,14,1
+Assaulted killed at work,2001,2,5,18,62,13,0
+Assaulted killed at work,2000,1,6,18,62,12,1
+Child attacked at school,2014,13,18,22,26,20,1
+Child attacked at school,2013,14,17,22,25,21,1
+Child attacked at school,2011,15,18,18,23,26,0
+Child attacked at school,2010,13,19,17,26,24,1
+Child attacked at school,2009,14,17,19,22,28,0
+Child attacked at school,2008,15,16,20,22,28,0
+Child attacked at school,2007,16,18,18,20,28,0
+Child attacked at school,2006,20,20,18,17,24,1
+Child attacked at school,2005,14,15,18,24,29,0
+Child attacked at school,2004,14,16,20,24,25,1
+Child attacked at school,2003,17,18,16,23,25,1
+Child attacked at school,2002,14,15,21,20,30,0
+Child attacked at school,2001,13,18,18,23,28,0
+Child attacked at school,2000,17,17,17,22,27,0
+Attacked while driving car,2014,5,15,32,44,3,0
+Attacked while driving car,2013,7,14,33,43,1,0
+Attacked while driving car,2011,5,14,35,44,1,0
+Attacked while driving car,2010,6,16,33,42,3,0
+Attacked while driving car,2009,7,16,34,41,2,0
+Attacked while driving car,2008,6,15,35,42,2,0
+Attacked while driving car,2007,7,17,36,37,3,0
+Attacked while driving car,2006,9,17,34,38,2,0
+Attacked while driving car,2005,6,16,31,44,3,0
+Attacked while driving car,2004,7,16,32,42,3,0
+Attacked while driving car,2003,8,18,32,38,4,0
+Attacked while driving car,2001,6,15,29,46,4,0
+Attacked while driving car,2000,9,20,29,40,2,0
+Victim of hate crime,2014,7,11,29,52,0,0
+Victim of hate crime,2013,8,13,29,49,0,1
+Victim of hate crime,2011,7,10,29,53,0,1
+Victim of hate crime,2010,6,12,24,57,0,0
+Victim of hate crime,2009,5,12,28,54,0,1
+Victim of hate crime,2008,7,9,29,55,1,0
+Victim of hate crime,2007,6,12,27,55,1,0
+Victim of hate crime,2006,7,11,29,52,0,1
+Victim of hate crime,2005,6,11,24,58,1,0
+Victim of hate crime,2004,6,10,24,59,0,1
+Victim of hate crime,2003,5,12,29,54,0,0
+Victim of hate crime,2001,5,8,26,60,0,1
+Victim of hate crime,2000,6,10,26,56,1,1
+Victim of terrorism,2014,11,17,34,38,0,0
+Victim of terrorism,2013,10,20,32,38,0,0
+Victim of terrorism,2011,9,21,30,39,0,0
+Victim of terrorism,2010,10,19,31,40,0,0
+Victim of terrorism,2009,14,21,33,31,0,1
+Victim of terrorism,2008,10,21,33,36,0,0
+Victim of terrorism,2007,13,23,33,30,0,1
+Victim of terrorism,2006,19,25,28,28,0,0
+Victim of terrorism,2005,14,24,30,32,0,0
+Victim of terrorism,2004,12,27,30,31,0,0
+Victim of terrorism,2003,13,25,30,32,0,0
+Victim of terrorism,2002,14,26,28,31,0,1
+Victim of terrorism,2001,21,26,28,25,0,0
+Credit card stolen,2014,41,28,15,14,2,0
+Computer phone hacked,2014,34,28,18,17,4,0
